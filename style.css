@@ -72,4 +72,5 @@ section .content{position:relative; z-index:1; display:block; }
 @media (max-width: 1000px) { body {	font-size: 150%; }#info p { font-size: 0.5em;} }
 .clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
 
-/*mergeeee */
+
+/* test for merge 1 2  merged*/
